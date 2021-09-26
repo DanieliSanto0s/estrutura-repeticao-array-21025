@@ -1,0 +1,13 @@
+C:\projetos_ams\1ano\semestre2\atv01-idade\bin\Debug\netcoreapp3.1\atv01-idade.exe
+C:\projetos_ams\1ano\semestre2\atv01-idade\bin\Debug\netcoreapp3.1\atv01-idade.deps.json
+C:\projetos_ams\1ano\semestre2\atv01-idade\bin\Debug\netcoreapp3.1\atv01-idade.runtimeconfig.json
+C:\projetos_ams\1ano\semestre2\atv01-idade\bin\Debug\netcoreapp3.1\atv01-idade.runtimeconfig.dev.json
+C:\projetos_ams\1ano\semestre2\atv01-idade\bin\Debug\netcoreapp3.1\atv01-idade.dll
+C:\projetos_ams\1ano\semestre2\atv01-idade\bin\Debug\netcoreapp3.1\atv01-idade.pdb
+C:\projetos_ams\1ano\semestre2\atv01-idade\obj\Debug\netcoreapp3.1\atv01-idade.csprojAssemblyReference.cache
+C:\projetos_ams\1ano\semestre2\atv01-idade\obj\Debug\netcoreapp3.1\atv01-idade.AssemblyInfoInputs.cache
+C:\projetos_ams\1ano\semestre2\atv01-idade\obj\Debug\netcoreapp3.1\atv01-idade.AssemblyInfo.cs
+C:\projetos_ams\1ano\semestre2\atv01-idade\obj\Debug\netcoreapp3.1\atv01-idade.csproj.CoreCompileInputs.cache
+C:\projetos_ams\1ano\semestre2\atv01-idade\obj\Debug\netcoreapp3.1\atv01-idade.dll
+C:\projetos_ams\1ano\semestre2\atv01-idade\obj\Debug\netcoreapp3.1\atv01-idade.pdb
+C:\projetos_ams\1ano\semestre2\atv01-idade\obj\Debug\netcoreapp3.1\atv01-idade.genruntimeconfig.cache
