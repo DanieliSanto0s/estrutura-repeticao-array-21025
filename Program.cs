@@ -18,9 +18,9 @@ namespace atv01_idade
             }
             else
             {
-                Console.WriteLine("-----------------------------------")
+                Console.WriteLine("-----------------------------------");
                 Console.WriteLine("Você não tem permissão para dirigir");
-                Console.WriteLine("-----------------------------------")
+                Console.WriteLine("-----------------------------------");
             }
         }
     }
